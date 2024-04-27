@@ -1,0 +1,15 @@
+{
+    "background_color": [255, 255, 255],
+    "ground": {
+        "y": 500,
+        "width": 800,
+        "height": 100,
+        "color": [0, 255, 0]
+    },
+    "player_spawn": {
+        "x": 20,
+        "y": 400,
+        "size": 50,
+        "color": [255, 0, 0]
+    }
+}
